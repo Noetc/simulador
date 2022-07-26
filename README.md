@@ -3,3 +3,4 @@ simulador crt
 
 # simulador
 Noelia Araceli torres cortes
+desarrollador
