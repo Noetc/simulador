@@ -1,5 +1,5 @@
 # simulador
-simulador crt
+simulador crt con ajustes
 
 # simulador
 Noelia Araceli torres cortes
